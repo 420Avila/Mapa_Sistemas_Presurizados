@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T02:25:06.549Z" agent="5.0 (Windows)" etag="j6Ajku2cHX_sXefN4zCm" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T02:29:12.945Z" agent="5.0 (Windows)" etag="EV4V8mF3GHl7CFUt4Itx" version="20.3.3" type="github">
   <diagram id="nhZoGWwR1IvOvr1_NBgF" name="Página-1">
-    <mxGraphModel dx="1323" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2405" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,6 +88,33 @@
         <mxCell id="ITRbSTz_eIRVhaSHHSQH-2" value="Componetes" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="265" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="cqa5lHVVIa8OTOIeq-iy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITRbSTz_eIRVhaSHHSQH-6" target="cqa5lHVVIa8OTOIeq-iy-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="360" />
+              <mxPoint x="50" y="360" />
+              <mxPoint x="50" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cqa5lHVVIa8OTOIeq-iy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITRbSTz_eIRVhaSHHSQH-6" target="cqa5lHVVIa8OTOIeq-iy-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="360" />
+              <mxPoint x="50" y="360" />
+              <mxPoint x="50" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cqa5lHVVIa8OTOIeq-iy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITRbSTz_eIRVhaSHHSQH-6" target="cqa5lHVVIa8OTOIeq-iy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="360" />
+              <mxPoint x="50" y="360" />
+              <mxPoint x="50" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ITRbSTz_eIRVhaSHHSQH-6" value="Ventajas" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="265" width="120" height="60" as="geometry" />
         </mxCell>
@@ -115,11 +142,8 @@
         <mxCell id="ITRbSTz_eIRVhaSHHSQH-28" value="Hidrantes&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-200" y="460" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cqa5lHVVIa8OTOIeq-iy-4" value="&lt;br&gt;&lt;ul&gt;&lt;br&gt;              &lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;br&gt;              &lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;              &lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;            &lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="205" width="290" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="cqa5lHVVIa8OTOIeq-iy-6" value="Fácil de automatizar&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="240" height="40" as="geometry" />
+          <mxGeometry x="80" y="400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cqa5lHVVIa8OTOIeq-iy-7" value="&lt;div&gt;Se adapta a las distintas dosis de &lt;br&gt;&lt;/div&gt;&lt;div&gt;riego necesarias&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="240" height="40" as="geometry" />
